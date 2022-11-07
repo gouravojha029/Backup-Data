@@ -1,0 +1,52 @@
+INFO,2022-09-28 11:23:32,672,root,the number entered by user is 3 and 6
+INFO,2022-09-28 11:34:23,266,root,the number entered by user is 3 and 6
+INFO,2022-09-28 11:34:23,266,root,we are into function 
+INFO,2022-09-28 11:34:23,266,root,we have completed a division operation
+INFO,2022-09-28 11:35:26,256,root,the number entered by user is 3 and 0
+INFO,2022-09-28 11:35:26,256,root,we are into function 
+ERROR,2022-09-28 11:35:26,257,root,division by zero
+Traceback (most recent call last):
+  File "C:\Users\Intel\PycharmProjects\pythonProject123\test2.py", line 8, in devide
+    div=a/b
+ZeroDivisionError: division by zero
+INFO,2022-09-28 11:40:25,494,root,the number entered by user is 3 and 0
+INFO,2022-09-28 11:40:25,494,root,we are into function 
+ERROR,2022-09-28 11:40:25,495,root,division by zero
+Traceback (most recent call last):
+  File "C:\Users\Intel\PycharmProjects\pythonProject123\test2.py", line 8, in devide
+    div=a/b
+ZeroDivisionError: division by zero
+INFO,2022-09-28 11:41:11,504,root,the number entered by user is 3 and 7
+INFO,2022-09-28 11:41:11,504,root,we are into function 
+INFO,2022-09-28 11:41:11,504,root,we have completed a division operation
+INFO,2022-09-28 11:41:11,505,root,result of code is 0.42857142857142855
+INFO,2022-09-28 11:43:18,962,root,the number entered by user is 3 and 7
+INFO,2022-09-28 11:43:18,963,root,we are into function 
+INFO,2022-09-28 11:43:18,963,root,we have completed a division operation
+INFO,2022-09-28 11:44:00,705,root,the number entered by user is 3 and 2
+INFO,2022-09-28 11:44:00,705,root,we are into function 
+INFO,2022-09-28 11:44:00,705,root,we have completed a division operation
+INFO,2022-09-28 11:44:00,706,root,result of code is 1.5 
+INFO,2022-09-28 11:44:25,222,root,the number entered by user is 3 and 1
+INFO,2022-09-28 11:44:25,223,root,we are into function 
+INFO,2022-09-28 11:44:25,223,root,we have completed a division operation
+INFO,2022-09-28 13:41:33,431,root,the number entered by user is 3 and 5
+INFO,2022-09-28 13:41:33,432,root,we are into function 
+INFO,2022-09-28 13:41:33,433,root,we have completed a division operation
+INFO,2022-09-28 13:41:33,433,root,result of code is 0.6 
+INFO,2022-09-28 13:44:45,970,root,the number entered by user is 3 and 6
+INFO,2022-09-28 13:44:45,971,root,we are into function 
+INFO,2022-09-28 13:44:45,971,root,we have completed a division operation
+INFO,2022-09-28 13:44:45,972,root,result of code is 0.5 
+ERROR,2022-09-28 13:59:12,226,root,division by zero
+Traceback (most recent call last):
+  File "C:\Users\Intel\PycharmProjects\pythonProject123\test2.py", line 8, in devide
+    div=a/b
+ZeroDivisionError: division by zero
+INFO,2022-09-28 14:01:29,716,root,the number entered by user is 3 and 0
+INFO,2022-09-28 14:01:29,716,root,we are into function 
+ERROR,2022-09-28 14:01:29,716,root,division by zero
+Traceback (most recent call last):
+  File "C:\Users\Intel\PycharmProjects\pythonProject123\test2.py", line 8, in devide
+    div=a/b
+ZeroDivisionError: division by zero

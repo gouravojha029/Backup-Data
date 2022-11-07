@@ -1,0 +1,11 @@
+INFO,2022-09-27 15:21:09,065,root,the number entered by user is 3 and 6
+INFO,2022-09-27 15:36:02,665,root,the number entered by user is 3 and 6
+INFO,2022-09-27 15:36:02,665,root,we are into function
+INFO,2022-09-27 15:36:02,666,root,wec have completed a division operation
+INFO,2022-09-27 15:38:37,398,root,the number entered by user is 3 and 0
+INFO,2022-09-27 15:38:37,399,root,we are into function
+ERROR,2022-09-27 15:38:37,399,root,division by zero
+Traceback (most recent call last):
+  File "C:\Users\Intel\PycharmProjects321\test3.py", line 8, in devide
+    div =a/b
+ZeroDivisionError: division by zero
